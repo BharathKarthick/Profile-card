@@ -13,7 +13,7 @@ body{
     font-size: 18px;
     align-items: center;
     display: flex;
-    background-image: url(/profile-card-component-main/images/bg-pattern-top.svg), url(/profile-card-component-main/images/bg-pattern-bottom.svg);
+    background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: left -250px bottom 50px, right -250px top 350px ;
 
