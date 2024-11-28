@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
 }
-@media screen and (min-width:700px) and (max-width:1440px){
-
+@media screen and (min-width:700px) and (max-width:2160px){
 body{
     
     font-family: "Kumbh Sans", sans-serif;
@@ -74,7 +73,7 @@ font-weight: 400;
     margin-top: 20px;
 }
 }
-@media screen and (min-width:375px) and (max-width:700px){
+@media screen and (min-width:300px) and (max-width:700px){
     body{
     font-family: "Kumbh Sans", sans-serif;
     background-color: hsl(185, 75%, 39%);
