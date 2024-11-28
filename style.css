@@ -30,7 +30,7 @@ body{
    overflow: hidden;
    margin: 1rem;
    position: relative;
-   top:160px;
+   top:120px;
 
    z-index: 3;
 }
@@ -96,7 +96,7 @@ font-weight: 400;
         overflow: hidden;
         margin: 1rem;
         position: relative;
-        top:75px;
+        top:120px;
         right: 3px;
      
         z-index: 3;
